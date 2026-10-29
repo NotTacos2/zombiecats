@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
         return 3;
     }
 
-    if (!SDL_CreateWindowAndRenderer("Space Cat", 500, 410, SDL_WINDOW_RESIZABLE, &window, &renderer)) {
+    if (!SDL_CreateWindowAndRenderer("Zombie Cats", 500, 410, SDL_WINDOW_RESIZABLE, &window, &renderer)) {
         SDL_LogError(SDL_LOG_CATEGORY_APPLICATION, "Couldn't create window and renderer: %s", SDL_GetError());
         return 3;
     }
