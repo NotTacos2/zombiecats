@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ZombieCats/ZombieCats.vcxproj" Id="feb16c10-9ce4-4801-a90e-c1f33d735a81">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
